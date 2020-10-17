@@ -1,0 +1,45 @@
+
+
+.img{
+width: 200px;
+height: 73px;
+margin-left: 42%;
+}
+.head{
+background: white;
+border: 1px solid white;
+border-bottom: 1px solid gray;
+}
+.container{
+text-align: center;
+}
+h2{
+
+}
+.banner img{
+width: 950px;
+margin-left: 12%;
+}
+h1{
+	margin: auto;
+}
+.content{
+	margin-left: 12%;
+
+}
+p{
+	width: 950px;
+	margin-left: 12%;
+
+}
+.box{
+	background-color: #71b571;
+	width: 950px;
+	margin-left: 12%;
+	height: 200px;
+	color: white;
+	text-align: center;
+}
+.heading{
+	padding: 60px;
+}
